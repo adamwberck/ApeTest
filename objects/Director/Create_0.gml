@@ -1,12 +1,17 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.HEIGHT = 3;
-global.WIDTH = 3;
-global.BUTTONS = 9;
+global.HEIGHT = 4;
+global.WIDTH = 4;
+global.BUTTONS = 4;
 global.IN_ORDER = true;
-global.SHOW = true;
+global.SHOW = false;
 global.TIME = 30;
 global.ONLY_NUM = true;
+global.NO_GRID = true;
+
+ROOMH=512;
+
+
 randomize();
 time = 0;
 hidden=false;

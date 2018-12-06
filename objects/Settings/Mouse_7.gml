@@ -9,7 +9,7 @@ if(rName=="rmSettings"){
 	global.IN_ORDER = CheckBoxInOrder.checked;
 	global.SHOW = CheckBoxAlwaysShowBoxes.checked;
 	global.ONLY_NUM = CheckBoxOnlyNumbers.checked;
-	
+	global.NO_GRID = CheckBoxNoGrid.checked;
 	
 	global.TIME = TimeSlider.value*30;
 	if(global.TIME==330){

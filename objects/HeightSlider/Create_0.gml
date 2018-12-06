@@ -3,7 +3,7 @@
 
 minValue = 3;
 value = global.HEIGHT;
-maxValue = 9;
+maxValue = 8;
 type="H Size";
 
 

@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0019c837-37fe-47de-bd1d-2bfc3b844459",
+            "Value": {
+                "id": "27db6352-7edb-406c-840c-8f063447c2d5",
+                "resourcePath": "objects\\CheckBoxNoGrid\\CheckBoxNoGrid.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "00f1adcf-c20e-4e74-91ae-ca3a72561cae",
             "Value": {
                 "id": "26c16b9c-958d-4a1e-8aa6-8578f35c00d0",
@@ -231,6 +239,22 @@
             }
         },
         {
+            "Key": "a228a652-88c0-4dba-887f-b1d3676404e7",
+            "Value": {
+                "id": "421f7658-e1d4-4760-90b4-9ddc1d994479",
+                "resourcePath": "sounds\\sDing\\sDing.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "a8ea970c-e7a5-4a51-99b8-6053e3316de8",
+            "Value": {
+                "id": "c85822ed-8c6b-4091-b052-dceb7f9b9dab",
+                "resourcePath": "sounds\\sBuzz\\sBuzz.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "50935c9a-816a-4949-a866-41c2f1f43ab5",
@@ -396,6 +420,14 @@
                 "id": "42d5dc20-9769-48b6-becb-21033d2fa45e",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fec1ca58-25c5-4d1e-8f54-48791d5c112d",
+            "Value": {
+                "id": "d45f6f6e-30c3-4548-ba6d-df9a8c5e526a",
+                "resourcePath": "sprites\\sWhiteCircle2\\sWhiteCircle2.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

@@ -2,6 +2,6 @@
 // You can write your code in this editor
 checked=!checked;
 if(checked){
-	CheckBoxOnlyNumbers.checked=false;
-	CheckBoxNoGrid.checked=false;
+	CheckBoxAlwaysShowBoxes.checked=false;
+	CheckBoxOnlyNumbers.checked=true;
 }
